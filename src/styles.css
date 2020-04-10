@@ -1,0 +1,7 @@
+html, body{
+    background-color: lightgray;
+}
+
+.webpack-logo{
+    width: 300px;
+}
